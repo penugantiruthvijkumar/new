@@ -11,6 +11,4 @@ if a>b:
 else:
     print("go back")
 
-for i in range(0,3):
-    a=a<<i
-print(a)    
+
